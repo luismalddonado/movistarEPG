@@ -1,4 +1,6 @@
 # movistarEPG
+movistartEPG is a Movistar+ Electronic Programming Guide written in C. It download EPG from official Movistar+ (https://comunicacion.movistarplus.es/wp-admin/admin-post.php)
+
 COMPILE:
 
 COMPILE INIH:
