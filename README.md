@@ -9,6 +9,8 @@ movistartEPG is a Movistar+ Electronic Programming Guide written in C. It downlo
 ## How to compile ##
 
 ### Dreambox ###
+To install gcc in a dreambox read  [this](https://dreambox.de/board/index.php?thread/21525-dm900-build-essential/). Later needed dependencies (libxml2, glib2.0 and libcurl) are needed
+
 INIH:
 g++ -DINI_MAX_LINE=2000 -c ini.h
 g++ -DINI_MAX_LINE=2000 -c ini.c -o ini.o
