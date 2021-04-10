@@ -1,9 +1,10 @@
 # movistarEPG
-movistartEPG is a Movistar+ Electronic Programming Guide written in C. It downloads EPG from official [Movistar+] (https://comunicacion.movistarplus.es/wp-admin/admin-post.php) website.
+movistartEPG is a Movistar+ Electronic Programming Guide written in C. It downloads EPG from official [Movistar+](https://comunicacion.movistarplus.es/wp-admin/admin-post.php) website.
 
 ## Dependencies ##
 
-[inih ] https://github.com/benhoyt/inih#compile-time-options
+[inih ](https://github.com/benhoyt/inih#compile-time-options)
+
 
 COMPILE:
 
